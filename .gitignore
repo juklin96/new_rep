@@ -19,3 +19,4 @@ __pycache__/
 .env
 *.key
 credentials.json
+draft.txt
